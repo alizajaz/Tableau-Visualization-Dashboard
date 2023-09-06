@@ -1,4 +1,8 @@
 # Tableau-Visualization-Dashboard
+https://public.tableau.com/app/profile/aliza.tamang/viz/TableauVisulization/Dashboard1?publish=yes
+
+
+
 UI of Tableau, Create Visualization and Dashboard
 1. Install Tableau  https://www.tableau.com/products/public/download
 2. Get the dataset from https://www.kaggle.com/gregorut/videogamesales(zipped and unzipped file)
